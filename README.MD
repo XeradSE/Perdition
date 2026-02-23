@@ -51,7 +51,7 @@ cmake --build .
 ./Perdition
 ```
 
-## Project Structure
+## Projected Project Structure
 
 ```
 Perdition/
