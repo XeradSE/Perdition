@@ -10,6 +10,8 @@ class Room {
 
 public:
 
+    Room(int w, int h) { width = w; height = h; }
+
     Position getCenter();
 
     bool intersects(const Room& other) const; // retourne vrai si deux salles se chevauchent, utile pour la génération
