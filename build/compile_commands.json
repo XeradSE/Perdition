@@ -7,6 +7,48 @@
 },
 {
   "directory": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build",
+  "command": "/usr/bin/clang++ -isystem /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/_deps/ftxui-src/include -g -std=gnu++17 -o CMakeFiles/Perdition.dir/src/Enemy.cpp.o -c /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/src/Enemy.cpp",
+  "file": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/src/Enemy.cpp",
+  "output": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/CMakeFiles/Perdition.dir/src/Enemy.cpp.o"
+},
+{
+  "directory": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build",
+  "command": "/usr/bin/clang++ -isystem /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/_deps/ftxui-src/include -g -std=gnu++17 -o CMakeFiles/Perdition.dir/src/Entity.cpp.o -c /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/src/Entity.cpp",
+  "file": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/src/Entity.cpp",
+  "output": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/CMakeFiles/Perdition.dir/src/Entity.cpp.o"
+},
+{
+  "directory": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build",
+  "command": "/usr/bin/clang++ -isystem /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/_deps/ftxui-src/include -g -std=gnu++17 -o CMakeFiles/Perdition.dir/src/Inventory.cpp.o -c /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/src/Inventory.cpp",
+  "file": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/src/Inventory.cpp",
+  "output": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/CMakeFiles/Perdition.dir/src/Inventory.cpp.o"
+},
+{
+  "directory": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build",
+  "command": "/usr/bin/clang++ -isystem /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/_deps/ftxui-src/include -g -std=gnu++17 -o CMakeFiles/Perdition.dir/src/Map.cpp.o -c /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/src/Map.cpp",
+  "file": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/src/Map.cpp",
+  "output": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/CMakeFiles/Perdition.dir/src/Map.cpp.o"
+},
+{
+  "directory": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build",
+  "command": "/usr/bin/clang++ -isystem /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/_deps/ftxui-src/include -g -std=gnu++17 -o CMakeFiles/Perdition.dir/src/Player.cpp.o -c /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/src/Player.cpp",
+  "file": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/src/Player.cpp",
+  "output": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/CMakeFiles/Perdition.dir/src/Player.cpp.o"
+},
+{
+  "directory": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build",
+  "command": "/usr/bin/clang++ -isystem /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/_deps/ftxui-src/include -g -std=gnu++17 -o CMakeFiles/Perdition.dir/src/Room.cpp.o -c /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/src/Room.cpp",
+  "file": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/src/Room.cpp",
+  "output": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/CMakeFiles/Perdition.dir/src/Room.cpp.o"
+},
+{
+  "directory": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build",
+  "command": "/usr/bin/clang++ -isystem /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/_deps/ftxui-src/include -g -std=gnu++17 -o CMakeFiles/Perdition.dir/src/Tile.cpp.o -c /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/src/Tile.cpp",
+  "file": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/src/Tile.cpp",
+  "output": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/CMakeFiles/Perdition.dir/src/Tile.cpp.o"
+},
+{
+  "directory": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build",
   "command": "/usr/bin/clang++ -I/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/_deps/ftxui-src/src -I/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/_deps/ftxui-src/include -g -std=gnu++17 -o _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o -c /home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/_deps/ftxui-src/src/ftxui/screen/box.cpp",
   "file": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/_deps/ftxui-src/src/ftxui/screen/box.cpp",
   "output": "/home/xerad/Documents/ProjetsProgrammation/C++/Perdition/build/_deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o"

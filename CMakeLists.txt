@@ -15,6 +15,15 @@ FetchContent_Declare(
 FetchContent_MakeAvailable(ftxui)
 
 # Création de l'exécutable
-add_executable(Perdition ./src/main.cpp)
+add_executable(Perdition 
+                ./src/main.cpp
+                ./src/Enemy.cpp
+                ./src/Entity.cpp
+                ./src/Inventory.cpp
+                ./src/Map.cpp
+                ./src/Player.cpp
+                ./src/Room.cpp
+                ./src/Tile.cpp
+                )
 
 target_link_libraries(Perdition PRIVATE ftxui::screen ftxui::dom ftxui::component)

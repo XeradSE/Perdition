@@ -10,7 +10,7 @@ class Room {
 
 public:
 
-    Room(int w, int h) { width = w; height = h; }
+    Room(Position p, int w, int h) { gauche_sup = p; width = w; height = h; }
 
     Position getCenter();
 
@@ -19,4 +19,5 @@ public:
     int getWidth() const { return width; };
 
     int getHeight() const { return height; };
+
 };

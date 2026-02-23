@@ -2,7 +2,7 @@
 
 A terminal-based roguelike dungeon crawler written in C++, featuring procedural generation, a turn-based combat system, and ASCII rendering via FTXUI.
 
-> Work in progress
+> Work on hold ! (I prefer to wait for the motivation to come back than to rush the project)
 
 ## Features (planned)
 
