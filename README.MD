@@ -8,7 +8,7 @@ A terminal-based roguelike dungeon crawler written in C++, featuring procedural 
 
 *Coming soon*
 
-<img width="882" height="881" alt="Snake" src="https://github.com/user-attachments/assets/44e2d7af-a1d6-4509-8226-573c873a1206" />
+<img width="882" height="881" alt="Snake" src="https://github.com/user-attachments/assets/44e2d7af-a1d6-4509-8226-573ca1206" />
 
 ## Features (planned)
 
