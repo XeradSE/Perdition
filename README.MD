@@ -4,6 +4,12 @@ A terminal-based roguelike dungeon crawler written in C++, featuring procedural 
 
 > Work on hold ! (I prefer to wait for the motivation to come back than to rush the project)
 
+## Demo
+
+*Coming soon*
+
+
+
 ## Features (planned)
 
 - Procedurally generated dungeons with rooms and corridors
