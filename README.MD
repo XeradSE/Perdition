@@ -51,42 +51,6 @@ cmake --build .
 ./Perdition
 ```
 
-## Projected Project Structure
-
-```
-Perdition/
-├── CMakeLists.txt
-├── README.md
-├── include/
-│   ├── Position.hpp
-│   ├── Entity.hpp
-│   ├── Player.hpp
-│   ├── Enemy.hpp
-│   ├── Tile.hpp
-│   ├── Room.hpp
-│   ├── Map.hpp
-│   ├── Dungeon.hpp
-│   ├── Item.hpp
-│   ├── Inventory.hpp
-│   ├── CombatSystem.hpp
-│   ├── GameEngine.hpp
-│   └── Renderer.hpp
-└── src/
-    ├── main.cpp
-    ├── Entity.cpp
-    ├── Player.cpp
-    ├── Enemy.cpp
-    ├── Tile.cpp
-    ├── Room.cpp
-    ├── Map.cpp
-    ├── Dungeon.cpp
-    ├── Item.cpp
-    ├── Inventory.cpp
-    ├── CombatSystem.cpp
-    ├── GameEngine.cpp
-    └── Renderer.cpp
-```
-
 ## Author
 
 Made as a personal C++ project to practice procedural generation, OOP architecture, and terminal rendering.
